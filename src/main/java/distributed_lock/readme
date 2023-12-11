@@ -1,0 +1,1 @@
+1. redis set [KEY] true ex [EXPIRE_TIME] nx 实现分布式锁
